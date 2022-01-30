@@ -27,18 +27,18 @@ interests:
 education:
   courses:
   - course: PhD in Sociomedical Sciences - Sociology
-    institution: Columbia University Graduate School of Arts and Sciences
+    institution: Columbia University
     year: 2021
   - course: MPhil in Sociomedical Sciences - Sociology
-    institution: Columbia University Graduate School of Arts and Sciences
+    institution: Columbia University
     year: 2019
   - course: MPH in Sociomedical Sciences
-    institution: Columbia University Mailman School of Public Health
+    institution: Columbia University
     year: 2015
   - course: Certificate in Chronic Disease Epidemiology
-    institution: Columbia University Mailman School of Public Health
+    institution: Columbia University
   - course: BA in Public Health Studies - Natural Sciences
-    institution: Johns Hopkins University Krieger School of Arts and Sciences
+    institution: Johns Hopkins University
     year: 2011
 
 # Social/Academic Networking
