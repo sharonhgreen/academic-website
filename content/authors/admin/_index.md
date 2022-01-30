@@ -17,21 +17,28 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Social determinants of health
-- Migration
+- Population health
 - Health disparities
+- Life course and aging
+- Migration and remittances
+- Social, economic, and political determinants of health
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Sociomedical Sciences
-    institution: Columbia University
+  - course: PhD in Sociomedical Sciences - Sociology
+    institution: Columbia University Graduate School of Arts and Sciences
     year: 2021
+  - course: MPhil in Sociomedical Sciences - Sociology
+    institution: Columbia University Graduate School of Arts and Sciences
+    year: 2019
   - course: MPH in Sociomedical Sciences
-    institution: Columbia University
+    institution: Columbia University Mailman School of Public Health
     year: 2015
-  - course: BA in Public Health Studies
-    institution: Johns Hopkins University
+  - course: Certificate in Chronic Disease Epidemiology
+    institution: Columbia University Mailman School of Public Health
+  - course: BA in Public Health Studies - Natural Sciences
+    institution: Johns Hopkins University Krieger School of Arts and Sciences
     year: 2011
 
 # Social/Academic Networking
