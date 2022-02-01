@@ -37,7 +37,7 @@ education:
     year: 2015
   - course: Certificate in Chronic Disease Epidemiology
     institution: Columbia University
-  - course: BA in Public Health Studies - Natural Sciences
+  - course: BA in Public Health Studies
     institution: Johns Hopkins University
     year: 2011
 
