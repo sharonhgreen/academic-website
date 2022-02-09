@@ -21,6 +21,7 @@ interests:
 - Health disparities
 - Life course and aging
 - Migration and remittances
+- Gender and women's empowerment
 - Social, economic, and political determinants of health
 
 # Education to show in About widget
