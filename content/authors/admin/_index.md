@@ -20,7 +20,7 @@ interests:
 - Population health
 - Health disparities
 - Life course and aging
-- - Gender and women's empowerment
+- Gender and women's empowerment
 - Migration and remittances
 - Social, economic, and political determinants of health
 
