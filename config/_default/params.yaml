@@ -117,15 +117,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-C1T2Q3D21K"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-C1T2Q3D21K');
-</script>
+  google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
