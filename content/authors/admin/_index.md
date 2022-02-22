@@ -82,3 +82,13 @@ highlight_name: true
 Sharon Green is a postdoctoral scholar in the Department of Demography at the University of California, Berkeley. Her research uses large-scale datasets and a variety of quantitative, qualitative, and mixed methods to explore how migration and related economic processes shape health disparities and social inequalities in the US and around the globe. 
 
 Her work has been published in leading journals, including the New England Journal of Medicine, American Journal of Public Health, and Social Science and Medicine – Population Health. Her research and training have been supported by the National Institute on Aging, the Eunice Kennedy Shriver National Institute of Child Health & Human Development, and the National Institute of General Medical Sciences.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C1T2Q3D21K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C1T2Q3D21K');
+</script>
