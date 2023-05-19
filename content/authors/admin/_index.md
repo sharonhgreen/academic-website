@@ -78,7 +78,7 @@ highlight_name: true
 
 ---
 
-Sharon Green is a Postdoctoral Scholar in the Department of Demography at the University of California, Berkeley. She is a social epidemiologist and her work has been published in leading journals, including the *New England Journal of Medicine*, *Social Science and Medicine – Population Health*, and *American Journal of Public Health*. Her research and training have been supported by the National Institute on Aging, the Eunice Kennedy Shriver National Institute of Child Health & Human Development, and the National Institute of General Medical Sciences.
+Sharon Green is a Postdoctoral Scholar in the Department of Demography at the University of California, Berkeley. Her work has been published in leading journals, including the *New England Journal of Medicine*, *Social Science and Medicine – Population Health*, and *American Journal of Public Health*. Her research and training have been supported by the National Institute on Aging, the Eunice Kennedy Shriver National Institute of Child Health & Human Development, and the National Institute of General Medical Sciences.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C1T2Q3D21K"></script>
