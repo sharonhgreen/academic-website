@@ -78,9 +78,7 @@ highlight_name: true
 
 ---
 
-Sharon Green is an epidemiologist and sociologist who studies population health. Her research examines how policies influence health disparities, how migration affects migrant-sending areas, and how social determinants shape mid- and late-life health inequities. Her work has been published in leading journals, including the *New England Journal of Medicine*, *Social Science and Medicine – Population Health*, and *American Journal of Public Health*.
- 
-Sharon earned her PhD in Sociomedical Sciences and Sociology and her MPH from Columbia University as well as her BA from Johns Hopkins University. She is currently a Postdoctoral Scholar in the Department of Demography and Data Science Fellow at the University of California, Berkeley.
+Sharon Green is an epidemiologist and sociologist who studies population health. Her research examines how policies influence health disparities, how migration affects migrant-sending areas, and how social determinants shape mid- and late-life health inequities. Her work has been published in leading journals, including the *New England Journal of Medicine*, *Social Science and Medicine – Population Health*, and *American Journal of Public Health*. She is currently a Postdoctoral Scholar in the Department of Demography and Data Science Fellow at the University of California, Berkeley.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C1T2Q3D21K"></script>
