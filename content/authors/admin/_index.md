@@ -6,7 +6,7 @@ title: Sharon H. Green, PhD, MPH
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar
+role: Postdoctoral Scholar and Data Science Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
