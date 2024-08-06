@@ -10,12 +10,13 @@ main:
   - name: CV
     url: uploads/cv.pdf
     weight: 20
+  - name: Tutorials
+    url: 'DataScienceTutorials/'
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 30
-  - name: Tutorials
-    url: '#tutorials'
     weight: 40
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
