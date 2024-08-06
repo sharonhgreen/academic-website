@@ -9,7 +9,7 @@ Although some people consider randomized experiments the gold standard, in many 
 
 ![The image shows a covariate distribution plot.](/uploads/DistributionGraphs.jpeg)
 
-You can find the full tutorial [here](https://medium.com/@dlab-berkeley/propensity-score-matching-for-causal-inference-creating-data-visualizations-to-assess-covariate-6c31ca3d25aa). The R code can be found in [this GitHub repository](https://github.com/sharonhgreen/Blog_PropensityScoreMatching).
+The R code can be found in [this GitHub repository](https://github.com/sharonhgreen/Blog_PropensityScoreMatching).
 
 ### [Using Forest Plots to Report Regression Estimates: A Useful Data Visualization Technique](https://medium.com/@dlab-berkeley/using-forest-plots-to-report-regression-estimates-a-useful-data-visualization-technique-2511491763f2#:~:text=Forest%20plots%20are%20a%20great,quickly%20conveying%20relationships%20between%20variables)
 
@@ -17,4 +17,4 @@ Regression models help us understand relationships between two or more variables
 
 ![The image shows a forest plot.](/uploads/Forestplot_ggplot.png)
 
-You can find the full tutorial [here](https://medium.com/@dlab-berkeley/using-forest-plots-to-report-regression-estimates-a-useful-data-visualization-technique-2511491763f2#:~:text=Forest%20plots%20are%20a%20great,quickly%20conveying%20relationships%20between%20variables). The R code can be found in [this GitHub repository](https://github.com/sharonhgreen/Blog_PropensityScoreMatching).
+The R code can be found in [this GitHub repository](https://github.com/sharonhgreen/Blog_PropensityScoreMatching).
