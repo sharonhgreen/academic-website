@@ -6,8 +6,7 @@ title: Sharon H. Green, PhD, MPH
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar and Data Science Fellow
-Department of Demography
+role: Postdoctoral Scholar and Data Science Fellow, Department of Demography
 
 # Organizations/Affiliations to show in About widget
 organizations:
