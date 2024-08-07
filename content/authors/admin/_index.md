@@ -17,10 +17,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Gender and empowerment
+- Causal inference
 - Population health
-- Global health
-- Aging and life course
+- Gender and empowerment
+- Migration and remittances
 - Social and economic determinants of health
 
 # Education to show in About widget
