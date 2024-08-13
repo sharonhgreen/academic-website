@@ -6,7 +6,7 @@ title: Sharon H. Green, PhD, MPH
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar and Data Science Fellow, Department of Demography
+# role: Postdoctoral Scholar and Data Science Fellow, Department of Demography
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,7 +78,7 @@ highlight_name: true
 
 ---
 
-Sharon H. Green is a social epidemiologist and data scientist with over 13 years of research and project management experience. 
+Sharon H. Green is a Postdoctoral Scholar in the Department of Demography and Data Science Fellow at the University of California, Berkeley.
 
 Dr. Green’s research applies advanced statistical methods to large datasets to examine global and national issues, using sophisticated data visualizations to convey her findings. Her current and recent projects have examined how financial transfers (e.g., remittances) shape health and social outcomes, how migration affects migrant-sending areas, how policies influence health disparities, and how social determinants shape mid- and late-life health inequities. This work has been published in top academic journals, including *New England Journal of Medicine*, *American Journal of Public Health*, and *Social Science and Medicine – Population Health*. She has also published numerous technical data analysis articles, programming tutorials, and opinion pieces in news outlets including The New York Times. 
 
