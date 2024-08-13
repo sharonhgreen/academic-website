@@ -10,7 +10,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Berkeley
+# - name: University of California, Berkeley
 
 # Short bio (displayed in user profile at end of posts)
 bio:
