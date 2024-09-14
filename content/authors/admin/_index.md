@@ -19,7 +19,7 @@ bio:
 interests:
 - Causal inference
 - Population health
-- Gender and empowerment
+- Gender and women's empowerment
 - Migration and remittances
 - Social and economic determinants of health
 
@@ -80,7 +80,7 @@ highlight_name: true
 
 Sharon H. Green is a Postdoctoral Scholar in the Department of Demography and Data Science Fellow at the University of California, Berkeley.
 
-Dr. Green’s research applies advanced statistical methods to large datasets to examine global and national issues, using sophisticated data visualizations to convey her findings. Her current and recent projects have examined how financial transfers (e.g., remittances) shape health and social outcomes, how migration affects migrant-sending areas, how policies influence health disparities, and how social determinants shape mid- and late-life health inequities. This work has been published in top academic journals, including *New England Journal of Medicine*, *American Journal of Public Health*, and *Social Science and Medicine – Population Health*. She has also published numerous technical data analysis articles, programming tutorials, and opinion pieces in news outlets including The New York Times. 
+Dr. Green’s research applies advanced statistical methods to large datasets to examine global and national issues, using sophisticated data visualizations to convey her findings. Her current and recent projects have examined how migration and financial transfers (e.g., remittances) shape health and social outcomes (including women's empowerment and gender equity), how policies influence health disparities, and how social determinants shape mid- and late-life health inequities. This work has been published in top academic journals, including *New England Journal of Medicine*, *American Journal of Public Health*, and *Social Science and Medicine – Population Health*. She has also published numerous technical data analysis articles, programming tutorials, and opinion pieces in news outlets including The New York Times. 
 
 Beyond her research, she has taught a demography seminar for PhD students, led an HIV and STI risk reduction program for youth in the juvenile justice system, and served as the lead teaching assistant for a graduate-level public health course. Prior to her graduate training, she worked as an HIV screening and counseling program coordinator, as a volunteer in a harm reduction center, as an emergency medical technician (EMT), and as a middle school science teacher and medical technician in rural Ghana.
 
