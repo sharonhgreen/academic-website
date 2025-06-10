@@ -78,7 +78,7 @@ highlight_name: true
 
 ---
 
-Sharon H. Green is an equity- and results-oriented population health scientist. She has a track record of expertise in descriptive, inferential, and multivariate statistics; working with large administrative, clinical, and programmatic datasets; data visualization; regression analysis; causal inference; survey methods; and more. 
+Sharon H. Green is a results-oriented population health data scientist. She has a track record of expertise in descriptive, inferential, and multivariate statistics; working with large administrative, clinical, and programmatic datasets; data visualization; regression analysis; causal inference; survey methods; and more. 
 
 She is currently a Postdoctoral Scholar in the Department of Demography and the Berkeley Population Center as well as a Senior Data Science Fellow at the University of California, Berkeley. She earned her PhD, MPhil, and MPH from Columbia University and her BA from Johns Hopkins University. 
 
